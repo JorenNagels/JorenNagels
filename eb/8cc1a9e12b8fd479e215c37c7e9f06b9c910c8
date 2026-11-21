@@ -1,0 +1,19 @@
+README.md
+  s_31fc9850675685::t_4a49b1706c3762 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eb8cc1a9e12b8fd479e215c37c7e9f06b9c910c8",
+  "prompts": {},
+  "sessions": {
+    "s_31fc9850675685": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_31fc9850675685",
+        "model": "unknown"
+      },
+      "human_author": "Joren Nagels <njoren@gmail.com>"
+    }
+  }
+}
